@@ -225,9 +225,9 @@
 
     <div class="heroe">
 
-        <h1>Welcome to CodeIgniter <?= CodeIgniter\CodeIgniter::CI_VERSION ?></h1>
+        <h1>I love Mcdonalds ! <br>(ci version<?= CodeIgniter\CodeIgniter::CI_VERSION ?>)</h1>
 
-        <h2>The small framework with powerful features</h2>
+        <h2>They should really make the Mcspicy a permanent menu item.</h2>
 
     </div>
 
@@ -237,11 +237,11 @@
 
 <section>
 
-    <h1>About this page</h1>
+    <h1>Hello</h1>
 
-    <p>The page you are looking at is being generated dynamically by CodeIgniter.</p>
+    <p>The page you are looking at is being generated dynamically by CodeIgniter Hahahahahaha.</p>
 
-    <p>If you would like to edit this page you will find it located at:</p>
+    <p>If you would like to edit this page you will find it located at: )</p>
 
     <pre><code>app/Views/welcome_message.php</code></pre>
 
