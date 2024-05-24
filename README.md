@@ -1,1 +1,1 @@
-Whats up nerds
+i like mcdonalds
