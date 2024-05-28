@@ -10,6 +10,25 @@
     <!-- STYLES -->
 
     <style {csp-style-nonce}>
+			@font-face {
+			  font-family: "MemphisRiver";
+			  src: url(fontz/MemphisRiver.ttf) format("truetype");
+			}
+			@font-face {
+			  font-family: "Roblox";
+			  src: url(fontz/Roblox-Font-Regular.ttf) format("truetype");
+			  font-weight: normal;
+			}
+			@font-face {
+			  font-family: "RobotoMono";
+			  src: url(fontz/RobotoMono-Medium.ttf) format("truetype");
+			  font-weight: normal;}
+			  
+			@font-face {
+			font-family: "Julius";
+			src: url(fontz/JuliusSansOne-Regular.ttf) format("truetype");
+			font-weight: normal;
+			}
         * {
             transition: background-color 300ms ease, color 300ms ease;
         }
@@ -213,7 +232,7 @@
             <li class="menu-toggle">
                 <button id="menuToggle">&#9776;</button>
             </li>
-            <li class="menu-item hidden"><a href="#">Home</a></li>
+            <li class="menu-item hidden"><a  href="homepage" style="font-size: 24px; font-family: Roblox; color:black; text-decoration: none;">Home</a></li>
             <li class="menu-item hidden"><a href="https://codeigniter.com/user_guide/" target="_blank">Docs</a>
             </li>
             <li class="menu-item hidden"><a href="https://forum.codeigniter.com/" target="_blank">Community</a></li>
